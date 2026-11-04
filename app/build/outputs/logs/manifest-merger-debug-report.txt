@@ -1,0 +1,320 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:1:1-13:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ebe7c062517139f822933d9dd9c61794\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\09fe0c4f287c8fb6f88bbc2ff0c01546\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\734cd2703a3f008ac1cfb04e14be654e\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3e4cd32d31be04ad46c2f221afad924d\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5c4f2344b600630d77c5b964160f4d32\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\1ffeb525238f76833d445a7a961db84b\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c58f9b05cd73ee52412b359b6ef429a\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1db05bb6b9e80db165b78dddcfe6df7\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9a62d1b837b65eba3293c4f3b1d01a16\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\7bc7821b5eae72be36b7bf59e36af5d0\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\56468586ab131002ed3aaf31a53618be\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a8aae687652ab0d7c0044c7f0880278f\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6813aaf7efbdd05450424127a702e88f\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\26bb2051481713c59e950c2b864e00d9\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\02b57ae25b1e8c5af8ba08359ccc36ca\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\4dfc50babe7059ec2e32e6bdf8620bcc\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ed6313a33ff60ac7473c2c1d264e84fb\transformed\activity-1.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9b8362ec1496f107491649d1c9007680\transformed\activity-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\12d7251f09787e5edcaa078692386e50\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\08c472023909088242e988948e937ffd\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\36d1a704eb2a3358dfeebcf24e187e0f\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\92187b0964c0ee62013db8467ffe8905\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\009253358099ddace9d36092b93304bc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\50098f8c2dbac48950a433d8d41248f5\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1eb75a87578044a462a740578d7bc9c\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\34010af5ca23b666d43cee83727469ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9edc8428830d110d69af1728547f8dff\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\32bbd3de7a7a6796329818ceea763ab9\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c7c27b6f2dc9ceb3da1bb0d752678544\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c358474b44c22f0c5f5bebd91eb4565a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\cef2709c50263676794ff553bfb50a8b\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6a62e7fca75a4b57127d994011df0a25\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\f0e80b24788c8c8c72cb909564f63e7f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9060ca2b72c1c4819f65ef6389d86027\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\07e2df7a7dec37f55c6e9c5f4220137d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ad693916f4df3cdc641568480186ba32\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\8e51c869492bd40dfa75e070b2b5010c\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ef182153152fc99b6790b9324a2e67fb\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a51153d3e45572076fbe3379f372d171\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:2:5-71
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:2:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:3:22-64
+queries
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:4:5-7:15
+intent#action:name:android.speech.RecognitionService
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:9-85
+action#android.speech.RecognitionService
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:17-76
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:25-73
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:9-85
+action#android.intent.action.TTS_SERVICE
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:17-76
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:25-73
+application
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:5-12:19
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:5-12:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\07e2df7a7dec37f55c6e9c5f4220137d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\07e2df7a7dec37f55c6e9c5f4220137d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:45-78
+	android:allowBackup
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:18-44
+	android:theme
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:79-142
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:143-179
+activity#com.example.aidilkocu.MainActivity
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:9-11:20
+	android:exported
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:48-71
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:13-156
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:28-80
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:36-77
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:80-140
+	android:name
+		ADDED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:90-137
+uses-sdk
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ebe7c062517139f822933d9dd9c61794\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ebe7c062517139f822933d9dd9c61794\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\09fe0c4f287c8fb6f88bbc2ff0c01546\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\09fe0c4f287c8fb6f88bbc2ff0c01546\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\734cd2703a3f008ac1cfb04e14be654e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\734cd2703a3f008ac1cfb04e14be654e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3e4cd32d31be04ad46c2f221afad924d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3e4cd32d31be04ad46c2f221afad924d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5c4f2344b600630d77c5b964160f4d32\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5c4f2344b600630d77c5b964160f4d32\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\1ffeb525238f76833d445a7a961db84b\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\1ffeb525238f76833d445a7a961db84b\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c58f9b05cd73ee52412b359b6ef429a\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c58f9b05cd73ee52412b359b6ef429a\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1db05bb6b9e80db165b78dddcfe6df7\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1db05bb6b9e80db165b78dddcfe6df7\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9a62d1b837b65eba3293c4f3b1d01a16\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9a62d1b837b65eba3293c4f3b1d01a16\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\7bc7821b5eae72be36b7bf59e36af5d0\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\7bc7821b5eae72be36b7bf59e36af5d0\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\56468586ab131002ed3aaf31a53618be\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\56468586ab131002ed3aaf31a53618be\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a8aae687652ab0d7c0044c7f0880278f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a8aae687652ab0d7c0044c7f0880278f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6813aaf7efbdd05450424127a702e88f\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6813aaf7efbdd05450424127a702e88f\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\26bb2051481713c59e950c2b864e00d9\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\26bb2051481713c59e950c2b864e00d9\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\02b57ae25b1e8c5af8ba08359ccc36ca\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\02b57ae25b1e8c5af8ba08359ccc36ca\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\4dfc50babe7059ec2e32e6bdf8620bcc\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\4dfc50babe7059ec2e32e6bdf8620bcc\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ed6313a33ff60ac7473c2c1d264e84fb\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ed6313a33ff60ac7473c2c1d264e84fb\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9b8362ec1496f107491649d1c9007680\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9b8362ec1496f107491649d1c9007680\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\12d7251f09787e5edcaa078692386e50\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\12d7251f09787e5edcaa078692386e50\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\08c472023909088242e988948e937ffd\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\08c472023909088242e988948e937ffd\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\36d1a704eb2a3358dfeebcf24e187e0f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\36d1a704eb2a3358dfeebcf24e187e0f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\92187b0964c0ee62013db8467ffe8905\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\92187b0964c0ee62013db8467ffe8905\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\009253358099ddace9d36092b93304bc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\009253358099ddace9d36092b93304bc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\50098f8c2dbac48950a433d8d41248f5\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\50098f8c2dbac48950a433d8d41248f5\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1eb75a87578044a462a740578d7bc9c\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a1eb75a87578044a462a740578d7bc9c\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\34010af5ca23b666d43cee83727469ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\34010af5ca23b666d43cee83727469ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9edc8428830d110d69af1728547f8dff\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9edc8428830d110d69af1728547f8dff\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\32bbd3de7a7a6796329818ceea763ab9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\32bbd3de7a7a6796329818ceea763ab9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c7c27b6f2dc9ceb3da1bb0d752678544\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c7c27b6f2dc9ceb3da1bb0d752678544\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c358474b44c22f0c5f5bebd91eb4565a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\c358474b44c22f0c5f5bebd91eb4565a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\cef2709c50263676794ff553bfb50a8b\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\cef2709c50263676794ff553bfb50a8b\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6a62e7fca75a4b57127d994011df0a25\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6a62e7fca75a4b57127d994011df0a25\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\f0e80b24788c8c8c72cb909564f63e7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\f0e80b24788c8c8c72cb909564f63e7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9060ca2b72c1c4819f65ef6389d86027\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\9060ca2b72c1c4819f65ef6389d86027\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\07e2df7a7dec37f55c6e9c5f4220137d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\07e2df7a7dec37f55c6e9c5f4220137d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ad693916f4df3cdc641568480186ba32\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ad693916f4df3cdc641568480186ba32\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\8e51c869492bd40dfa75e070b2b5010c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\8e51c869492bd40dfa75e070b2b5010c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ef182153152fc99b6790b9324a2e67fb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ef182153152fc99b6790b9324a2e67fb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a51153d3e45572076fbe3379f372d171\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\a51153d3e45572076fbe3379f372d171\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\3077e9ad46afd28bae3e96a6cd7a0f6f\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\227a3be8781ef4b6300a8f3bccb88b0e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\5288e246157be9307960c936cb8699f2\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.aidilkocu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.aidilkocu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\0c6fc1393ee79e155f3ee4b9b6d366b1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
