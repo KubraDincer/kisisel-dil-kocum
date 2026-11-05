@@ -40,10 +40,10 @@ com.example.aidilkocu.app-material3-release-38 C:\Users\Kubra\.gradle\caches\9.0
 com.example.aidilkocu.app-activity-1.10.0-39 C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ed6313a33ff60ac7473c2c1d264e84fb\transformed\activity-1.10.0\res
 com.example.aidilkocu.app-core-runtime-2.2.0-40 C:\Users\Kubra\.gradle\caches\9.0.0\transforms\ef182153152fc99b6790b9324a2e67fb\transformed\core-runtime-2.2.0\res
 com.example.aidilkocu.app-profileinstaller-1.4.0-41 C:\Users\Kubra\.gradle\caches\9.0.0\transforms\fb32bab7ad09e26309f87ee6497c6db0\transformed\profileinstaller-1.4.0\res
-com.example.aidilkocu.app-pngs-42 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\build\generated\res\pngs\debug
-com.example.aidilkocu.app-resValues-43 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\build\generated\res\resValues\debug
-com.example.aidilkocu.app-packageDebugResources-44 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.aidilkocu.app-packageDebugResources-45 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.aidilkocu.app-debug-46 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.aidilkocu.app-debug-47 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\debug\res
-com.example.aidilkocu.app-main-48 C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\res
+com.example.aidilkocu.app-pngs-42 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\build\generated\res\pngs\debug
+com.example.aidilkocu.app-resValues-43 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\build\generated\res\resValues\debug
+com.example.aidilkocu.app-packageDebugResources-44 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.aidilkocu.app-packageDebugResources-45 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.aidilkocu.app-debug-46 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.aidilkocu.app-debug-47 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\debug\res
+com.example.aidilkocu.app-main-48 C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\res

@@ -9,25 +9,25 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-11-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:2:5-71
-11-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:2:22-68
+11-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:2:5-71
+11-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:2:22-68
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:3:5-67
-12-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:3:22-64
+12-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:3:22-64
 13
 14    <queries>
-14-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:4:5-7:15
+14-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:4:5-7:15
 15        <intent>
-15-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:9-85
+15-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:5:9-85
 16            <action android:name="android.speech.RecognitionService" />
-16-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:17-76
-16-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:5:25-73
+16-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:5:17-76
+16-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:5:25-73
 17        </intent>
 18        <intent>
-18-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:9-85
+18-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:6:9-85
 19            <action android:name="android.intent.action.TTS_SERVICE" />
-19-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:17-76
-19-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:6:25-73
+19-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:6:17-76
+19-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:6:25-73
 20        </intent>
 21    </queries>
 22
@@ -43,35 +43,35 @@
 27-->[androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 28
 29    <application
-29-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:5-12:19
+29-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:8:5-12:19
 30        android:allowBackup="true"
-30-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:18-44
+30-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:8:18-44
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.15.0] C:\Users\Kubra\.gradle\caches\9.0.0\transforms\6184035775336cede626cdb03662fbd8\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 32        android:debuggable="true"
 33        android:extractNativeLibs="false"
 34        android:label="Kişisel Dil Koçum"
-34-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:45-78
+34-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:8:45-78
 35        android:testOnly="true"
 36        android:theme="@android:style/Theme.Material.Light.NoActionBar"
-36-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:79-142
+36-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:8:79-142
 37        android:usesCleartextTraffic="false" >
-37-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:8:143-179
+37-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:8:143-179
 38        <activity
-38-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:9-11:20
+38-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:9:9-11:20
 39            android:name="com.example.aidilkocu.MainActivity"
-39-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:19-47
+39-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:9:19-47
 40            android:exported="true" >
-40-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:9:48-71
+40-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:9:48-71
 41            <intent-filter>
-41-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:13-156
+41-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:10:13-156
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:28-80
-42-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:36-77
+42-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:10:28-80
+42-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:10:36-77
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:80-140
-44-->C:\Users\Kubra\Downloads\Kisisel-Dil-Kocum-Gemini\AIDilKocu\app\src\main\AndroidManifest.xml:10:90-137
+44-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:10:80-140
+44-->C:\Users\Kubra\AndroidStudioProjects\kisisel-dil-kocum\app\src\main\AndroidManifest.xml:10:90-137
 45            </intent-filter>
 46        </activity>
 47        <activity
