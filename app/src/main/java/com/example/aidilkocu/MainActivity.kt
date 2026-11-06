@@ -40,6 +40,7 @@ private val Green = Color(0xFF16834A)
 private val Red = Color(0xFFC62828)
 private val Ink = Color(0xFF172033)
 // Replace with your deployed HTTPS backend URL (no trailing slash).
+
 private const val API_BASE_URL = "https://kisisel-dil-kocum.onrender.com"
 private data class ChatLine(val speaker: String, val text: String, val corrected: String? = null, val isUser: Boolean = false)
 
